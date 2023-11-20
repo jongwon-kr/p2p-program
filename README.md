@@ -18,6 +18,25 @@
 
 메인화면
 
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/1d9387e5-febd-4a30-8b6f-586637db5dec)
+
+메뉴를 이용하여 서버 연결
+
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9f001440-52f9-43cd-a1bf-fb054439c16a)
+
+서버 아이피를 입력하고 연결 성공
+
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/49b49dd2-a95c-4bc4-8d99-0d8b362f500c)
+
+공유 및 저장 폴더 지정
+
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/6be5b714-bfbf-4292-845b-bbec33fc0ca8)
+
+
+
+
+
+
+
 
 
