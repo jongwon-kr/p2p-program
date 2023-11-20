@@ -5,10 +5,14 @@
 ## 개발 환경 및 언어
 ## 이미지
 ### 서버
-- 서버가 가동되고 클라이언트 수 0
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9dbbc49a-17fc-4185-841e-012eb7a8d993)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/0ac7e5b8-d86b-412a-9916-a2fd79961f47)
+
 
 클라이언트가 접속
 
 ### 클라이언트
-클라이언트 메인화면
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/bcceab5d-5c82-4609-b96f-021de24b5253)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9f001440-52f9-43cd-a1bf-fb054439c16a)
+
+
