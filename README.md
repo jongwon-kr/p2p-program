@@ -29,7 +29,10 @@
 ### hwp로 검색한 화면
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/bf5aa85e-82e5-48c1-9b0f-ab6df38775cb)
 
+### 다운로드 할 파일 선택후 다운로드
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/2e861698-e9b6-4f76-b064-7098b8c78e89)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/f5397797-eecc-4ab6-ae49-2a995ddd308f)
+
 
 
 
