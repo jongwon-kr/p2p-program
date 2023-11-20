@@ -32,6 +32,13 @@
 ### 다운로드 할 파일 선택후 다운로드
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/2e861698-e9b6-4f76-b064-7098b8c78e89)
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/f5397797-eecc-4ab6-ae49-2a995ddd308f)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/2c1f8f14-3dbf-4b92-8aca-91d71b15e54a)
+
+### 다운로드가 끝난 후 파일 관리
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/b249a332-3f70-413b-b9e2-91cd4bb8b271)
+
+
+
 
 
 
