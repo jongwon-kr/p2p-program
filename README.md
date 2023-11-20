@@ -22,6 +22,7 @@
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/ee11a99e-0b89-4272-8a30-c61b126b16f7)
 
 서버 IP 설정
+
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/d48f693b-d58b-40eb-8406-2cad54393f38)
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/80f9d897-9e4e-47f0-a353-48e82a309a38)
 
