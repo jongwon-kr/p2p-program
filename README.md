@@ -8,7 +8,6 @@
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9dbbc49a-17fc-4185-841e-012eb7a8d993)
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/0ac7e5b8-d86b-412a-9916-a2fd79961f47)
 
-
 클라이언트가 접속
 
 ### 클라이언트
