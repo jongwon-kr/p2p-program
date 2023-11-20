@@ -14,25 +14,30 @@
 클라이언트 접속 1
 
 ### 클라이언트
-![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/bcceab5d-5c82-4609-b96f-021de24b5253)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/a5590501-1ad7-4c98-95b1-0cf262931e3a)
 
 메인화면
 
-![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/1d9387e5-febd-4a30-8b6f-586637db5dec)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/b4ca6d8a-8adc-4741-8a10-c209b19f39fe)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/ee11a99e-0b89-4272-8a30-c61b126b16f7)
 
-메뉴를 이용하여 서버 연결
+서버 IP 설정
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/d48f693b-d58b-40eb-8406-2cad54393f38)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/80f9d897-9e4e-47f0-a353-48e82a309a38)
 
-![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9f001440-52f9-43cd-a1bf-fb054439c16a)
+공유 및 저장 폴더 설정
 
-서버 아이피를 입력하고 연결 성공
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/ae2d11de-50d4-41ad-920a-1794929de27f)
 
-![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/49b49dd2-a95c-4bc4-8d99-0d8b362f500c)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/ffda26c5-3ce6-4aea-a751-65e415613226)
 
-공유 및 저장 폴더 지정
+검색창에 아무것도 입력하지 않고 검색시 모든 공유 파일 출력, 가장위에 있는 파일명 표시(현재 선택)
 
-![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/6be5b714-bfbf-4292-845b-bbec33fc0ca8)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/bf5aa85e-82e5-48c1-9b0f-ab6df38775cb)
 
+hwp로 검색한 화면
 
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/2e861698-e9b6-4f76-b064-7098b8c78e89)
 
 
 
