@@ -4,5 +4,6 @@
 ## 프로젝트 기간
 ## 개발 환경 및 언어
 ## 이미지
-![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/b6dc1413-a21f-4f78-81b8-aab526f558c9)
+![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9d74aecb-698d-4320-b683-1fc85b59c69e)
+
 
