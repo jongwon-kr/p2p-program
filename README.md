@@ -12,6 +12,8 @@
 
 ### 클라이언트
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/bcceab5d-5c82-4609-b96f-021de24b5253)
+메인화면
+
 ![image](https://github.com/jongwon-kr/p2p-program/assets/76871947/9f001440-52f9-43cd-a1bf-fb054439c16a)
 
 
